@@ -6,6 +6,7 @@
     --cor-vermelho:#E50D0D;
     --cor-verde:#F94B00;
     --texto-fundo:#C10068;
+    --cor-branca:#FFFFFF; 
     
 }
 
@@ -30,5 +31,13 @@ body{
     }
 
     .titulo-principal span{
-        color: var(--verde-limao);
+        color: var(--verde-limao);        
+    }
+    .botao{
+        font-family: 'Crakra Pech, sans serif';
+        background-color: var(--cor-roxo);
+        color: var(--cor-branca);
+        display: flex;
+        justify-content: center;
+        padding: 1em;
     }
