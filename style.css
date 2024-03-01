@@ -8,3 +8,7 @@
     --texto-fundo:#C10068;
     
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+    }
