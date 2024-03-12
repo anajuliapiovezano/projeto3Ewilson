@@ -43,8 +43,8 @@ body{
         font-size: 18px;
         align-items: center;
         width: 100%;
-        border-bottom: 4px solid var(--cor-amarela);
-        border-left: 2px solid var(--cor-amarela);
-        border-right: 2px solid var(--cor-amarela);
+        border-bottom: 4px solid var(--cor-branca)
+        border-left: 2px solid var(#FFFFFF)
+        border-right: 2px solid var(#FFFFFF)
         border-top: none;
     }
